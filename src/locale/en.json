@@ -1,0 +1,309 @@
+{
+  "navbarItems": [
+    {
+      "label": "Main",
+      "path": "/"
+    },
+    {
+      "label": "Offline Courses",
+      "path": "/offline-courses"
+    },
+    {
+      "label": "Online Courses",
+      "path": "/online-courses"
+    },
+    {
+      "label": "About",
+      "path": "/about"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "FAQ",
+      "path": "/faq"
+    },
+    {
+      "label": "support",
+      "path": "/support"
+    }
+  ],
+  "logout": "Logout",
+  "login": "Login",
+  "register": "Register",
+  "hero": {
+    "title": "Welcome to dublish institute",
+    "description": "Best Courses to Elevate Your Skills and Achieve Your Goals!",
+    "getStarted": "Join Now",
+    "cards": [
+      {
+        "icon": "FaUserGraduate",
+        "title": "Specialized lecturers",
+        "description": "Our expert lecturers cover diverse areas, including language education, Emsat exam preparation, and more."
+      },
+      {
+        "icon": "GoBook",
+        "title": "Placement tests",
+        "description": "Placement tests help determine the trainee’s level and track their progress throughout the training course."
+      },
+      {
+        "icon": "AiOutlineInteraction",
+        "title": "Interactive courses",
+        "description": "Interactive courses are designed to enhance trainees' skills and guide them on the right learning path to success."
+      }
+    ],
+    "readMoreAboutCourse": "Read more about this course",
+    "courseSection": "Our Courses",
+    "search": "Search for courses",
+    "noCoursesMatch": "No courses match your search criteria. Please try again with different keywords.",
+    "whyUs": "Why you should choose our institute?",
+    "abouts": [
+      {
+        "icon": "GiBrassEye",
+        "title": "Vision",
+        "description": "Download this awesome creatives and bring your presentation to life, with our creativity"
+      },
+      {
+        "icon": "GiSupersonicArrow",
+        "title": "Mission",
+        "description": "Download this awesome creatives and bring your presentation to life, with our creativity"
+      },
+      {
+        "icon": "GiDiamondHard",
+        "title": "Value",
+        "description": "Download this awesome creatives and bring your presentation to life, with our creativity"
+      }
+    ]
+  },
+  "auth": {
+    "login": {
+      "success": "Login successful",
+      "error": "Login failed",
+      "welcomeBack": "Welcome back!",
+      "signInToContinue": "Please log in to your account",
+      "fields": {
+        "email": "Email",
+        "password": "Password",
+        "submit": "Login"
+      },
+      "placeholder": {
+        "email": "Enter your email",
+        "password": "Enter your password"
+      },
+      "errors": {
+        "email": {
+          "required": "Email is required",
+          "invalid": "Email is invalid"
+        },
+        "password": {
+          "required": "Password is required"
+        }
+      }
+    },
+    "register": {
+      "success": "Create an account successfully!",
+      "error": "Registration failed",
+      "title": "Create an account",
+      "fields": {
+        "nameEn": "Name (English)",
+        "nameAr": "Name (Arabic)",
+        "email": "Email",
+        "password": "Password",
+        "phone": "Phone",
+        "dateOfBirth": "Date of Birth",
+        "submit": "Sign Up"
+      },
+      "placeholder": {
+        "nameEn": "Enter your name in English",
+        "nameAr": "Enter your name in Arabic",
+        "email": "Enter your email",
+        "password": "Enter your password",
+        "phone": "Enter your phone number",
+        "dateOfBirth": "Enter your date of birth"
+      },
+      "errors": {
+        "nameEn": {
+          "required": "Name in English is required",
+          "matches": "Name in English must contain only English letters",
+          "min": "Name in English must be at least 3 characters long",
+          "max": "Name in English must be at most 30 characters long"
+        },
+        "nameAr": {
+          "required": "Name in English is required",
+          "matches": "Name in Arabic must contain only Arabic letters",
+          "min": "Name in Arabic must be at least 3 characters long",
+          "max": "Name in Arabic must be at most 30 characters long"
+        },
+        "email": {
+          "invalid": "Email is invalid",
+          "required": "Email is required",
+          "matches": "Email must contain only English characters"
+        },
+        "password": {
+          "required": "Password is required",
+          "min": "Password must be at least 8 characters long",
+          "matches": {
+            "main": "Password must only contain English letters and special characters",
+            "lowercase": "Password must contain at least one lowercase letter",
+            "uppercase": "Password must contain at least one uppercase letter",
+            "number": "Password must contain at least one number",
+            "special": "Password must contain at least one special character"
+          }
+        },
+        "phone": {
+          "required": "Phone is required",
+          "invalid": "Phone is invalid"
+        }
+      },
+      "alreadyHaveAccount": "Already have an account? ",
+      "loginNow": " Login Now"
+    }
+  },
+  "about": {
+    "title": "Empowering Your Future",
+    "description": "Dublish Institute is a leading educational institution that offers a wide range of courses to help you achieve your goals and elevate your skills. Our expert lecturers and interactive courses are designed to guide you on the right learning path to success.",
+    "learnMore": "Learn More",
+    "whoAreWe": "Who Are We?",
+    "whoAreWeDescription": "Dublish Institute is a leading educational institution that offers a wide range of courses to help you achieve your goals and elevate your skills. Our expert lecturers and interactive courses are designed to guide you on the right learning path to success.",
+    "joinUsToday": "Join Us Today",
+    "whyChooseUs": "Why Choose Us?",
+    "whyChooseUsArr": [
+      {
+        "icon": "FaChalkboardTeacher",
+        "title": "Expert Instructors",
+        "description": " Learn from top professionals with years of industry experience."
+      },
+      {
+        "icon": "FaCode",
+        "title": "Interactive Learning",
+        "description": "Apply your knowledge through hands-on projects and activities."
+      },
+      {
+        "icon": "FaAward",
+        "title": "Recognized Certifications",
+        "description": "Earn certifications that highlight your skills and boost your career."
+      }
+    ],
+    "startLearningToday": "Start Learning Today",
+    "startLearningTodayDescription": "Don't wait to achieve your goals. Join our platform and begin your journey of growth, learning, and success.",
+    "getStartedNow": "Get Started Now"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to the most common questions about Dublish Institute and our services.",
+    "questions": [
+      {
+        "question": "What types of courses do you offer?",
+        "answer": "We offer a wide range of courses, including language learning, development, and ICDL certifications. Each course is designed to meet the needs of beginners and advanced learners alike."
+      },
+      {
+        "question": "How can I enroll in a course?",
+        "answer": "Enrolling in a course is simple! Create an account, browse our course catalog, select the course you want, and complete the payment process."
+      },
+      {
+        "question": "Do you provide certifications?",
+        "answer": "Yes! Upon successfully completing a course, you will receive a recognized certification to showcase your skills and knowledge."
+      },
+      {
+        "question": "Are the courses self-paced?",
+        "answer": "Yes, most of our courses are self-paced, allowing you to learn at your convenience. However, some courses may have live sessions or fixed schedules."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept a variety of payment methods, including credit cards, PayPal, and other secure online payment options."
+      },
+      {
+        "question": "Can I get a refund if I’m not satisfied?",
+        "answer": "Absolutely! We offer a satisfaction guarantee. If you’re not happy with a course, you can request a refund within the specified period."
+      }
+    ]
+  },
+  "support": {
+    "title": "Get in Touch",
+    "description": "Have a question or need assistance? Contact our support team for help.",
+    "success": "Your message has been sent successfully!",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "sendMessage": "Send Message"
+    },
+    "placeholder": {
+      "name": "Enter your name",
+      "email": "Enter your email",
+      "subject": "Enter the subject",
+      "message": "Enter your message"
+    },
+    "errors": {
+      "name": {
+        "required": "Name is required",
+        "min": "Name must be at least 3 characters long",
+        "max": "Name must be at most 30 characters long"
+      },
+      "email": {
+        "required": "Email is required",
+        "invalid": "Email is invalid"
+      },
+      "subject": {
+        "required": "Subject is required",
+        "min": "Subject must be at least 5 characters long",
+        "max": "Subject must be at most 50 characters long"
+      },
+      "message": {
+        "required": "Message is required",
+        "min": "Message must be at least 10 characters long",
+        "max": "Message must be at most 300 characters long"
+      }
+    }
+  },
+  "footer": {
+    "title": "Dublish Institute",
+    "description": "Best Courses to Elevate Your Skills and Achieve Your Goals!",
+    "links": "Explore",
+    "explores": [
+      {
+        "label": "Main",
+        "path": "/"
+      },
+      {
+        "label": "Offline Courses",
+        "path": "/offline-courses"
+      },
+      {
+        "label": "Online Courses",
+        "path": "/online-courses"
+      },
+      {
+        "label": "About",
+        "path": "/about"
+      },
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "FAQ",
+        "path": "/faq"
+      },
+      {
+        "label": "Support",
+        "path": "/support"
+      }
+    ],
+    "social": "Connect with us",
+    "rights": "All rights reserved © 2021 Dublish Institute"
+  },
+  "courses": {
+    "creationDate": "Creation Date",
+    "moreInfo": "More Info",
+    "duration": "Duration",
+    "hours": "Hours",
+    "price": "Price",
+    "classes": "Classes",
+    "type": "Type",
+    "students": "Students",
+    "assignCourse": "Assign Course"
+  }
+}

@@ -1,0 +1,12 @@
+.animation {
+  width: 30rem !important;
+  height: auto !important;
+  margin: auto;
+  display: flex;
+}
+
+@media screen and (max-width: 1200px) {
+  .animation {
+    width: 15rem !important;
+  }
+}

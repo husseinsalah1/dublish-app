@@ -1,0 +1,7 @@
+.date-picker input {
+  padding: 12px !important;
+}
+.date-picker {
+  width: 100%;
+  background-color: #f5f5f5;
+}

@@ -1,0 +1,14 @@
+.course_card {
+  border: 1px solid #e1e1e1;
+  overflow: hidden !important;
+  transition: all 0.3s ease-in-out !important;
+  border-radius: 0.754rem !important;
+  cursor: pointer;
+}
+
+.course_description {
+  font-size: 0.9rem;
+  max-height: 4.8rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

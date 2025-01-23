@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap");
+:root {
+  --primary-color: #f7b61c;
+  --primary-color-light: #f9c94f;
+  --primary-color-dark: #f5a623;
+  --secondary-color: #1a85ff;
+  --secondary-color-light: #4dabf5;
+  --secondary-color-dark: #005cbf;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

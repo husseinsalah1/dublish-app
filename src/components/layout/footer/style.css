@@ -1,0 +1,12 @@
+footer a:hover {
+  color: #00bcd4; /* Highlight color for links and icons */
+}
+
+footer img {
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+footer img:hover {
+  filter: grayscale(0%);
+}
