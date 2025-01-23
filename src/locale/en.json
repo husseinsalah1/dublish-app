@@ -305,5 +305,30 @@
     "type": "Type",
     "students": "Students",
     "assignCourse": "Assign Course"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a wide range of services to help you achieve your goals and elevate your skills. Our expert team is here to guide you on the right learning path to success.",
+    "services": [
+      {
+        "icon": "FaLanguage",
+        "title": "Language Courses",
+        "description": "Master new languages with our expert-led courses for beginners to advanced learners.",
+        "animation": "fade-up"
+      },
+      {
+        "icon": "FaLaptopCode",
+        "title": "Development Courses",
+        "description": "Enhance your coding skills with web, mobile, and software development training.",
+        "animation": "fade-left"
+      },
+      {
+        "icon": "FaBook",
+        "title": "ICDL Courses",
+        "description": "Get certified in essential computer skills to improve your career opportunities.",
+        "animation": "fade-right"
+      }
+    ],
+    "getStarted": "Get Started Now"
   }
 }
